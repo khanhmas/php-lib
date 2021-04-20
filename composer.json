@@ -1,0 +1,13 @@
+{
+    "name": "qlu/print",
+    "description": "print",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex LU",
+            "email": "quan-khanh.lu@prestashop.com"
+        }
+    ],
+    "require": {}
+}

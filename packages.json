@@ -1,0 +1,14 @@
+{
+    "packages": {
+        "qlu/print": {
+            "1.0.0": {
+                "name": "qlu/print",
+                "version": "1.0.0",
+                "dist": {
+                    "url": "http://localhost/index.zip",
+                    "type": "zip"
+                }
+            }
+        }
+    }
+}
