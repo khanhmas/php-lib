@@ -1,3 +1,3 @@
 <?php 
-    echo "from index"
+    echo "from index github"
 ?>
