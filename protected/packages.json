@@ -1,0 +1,24 @@
+{
+    "packages": {
+        "qlu/print": {
+            "1.0.0": {
+                "name": "qlu/protected-print",
+                "version": "1.0.0",
+                "dist": {
+                    "url": "http://localhost/protected/index.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        "qlu/test": {
+            "1.0.0": {
+                "name": "qlu/test",
+                "version": "1.0.0",
+                "dist": {
+                    "url": "http://my-apache-php-lib/test.zip",
+                    "type": "zip"
+                }
+            }
+        }
+    }
+}

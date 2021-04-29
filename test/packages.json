@@ -2,10 +2,10 @@
     "packages": {
         "qlu/print": {
             "1.0.0": {
-                "name": "qlu/print",
+                "name": "qlu/protected-print",
                 "version": "1.0.0",
                 "dist": {
-                    "url": "http://my-apache-php-lib/index.zip",
+                    "url": "http://localhost/protected/index.zip",
                     "type": "zip"
                 }
             }
