@@ -1,12 +1,13 @@
 {
     "packages": {
         "qlu/print": {
-            "1.0.0": {
-                "name": "qlu/protected-print",
-                "version": "1.0.0",
-                "dist": {
-                    "url": "http://localhost/protected/index.zip",
-                    "type": "zip"
+            "dev-master": {
+                "name": "qlu/print",
+                "version": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/khanhmas/php-lib.git",
+                    "reference": "137006eaa051c12fffbab194a8ae1fc863eb4b89"
                 }
             }
         },

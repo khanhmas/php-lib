@@ -1,4 +1,7 @@
 <?php
+   // echo 'LIBRARY PACKAGIST *******';
+   // var_dump($_SERVER);
+   // die;
    if (($_SERVER['HTTP_API_TOKEN'] != 'iamtoken')) {
       header('WWW-Authenticate: Basic Realm="Secret Stash"');
       header('HTTP/1.0 401 Unauthorized');
