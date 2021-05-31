@@ -2,11 +2,11 @@
 if (!defined('_PS_VERSION_'))
     exit;
 
-class Print extends Module
+class Fooprint extends Module
 {
     public function __construct()
     {
-        $this->name = 'print';
+        $this->name = 'fooprint';
         $this->tab = 'front_office_features';
         $this->version = '1.0.0';
         $this->author = 'Alex LU';
@@ -19,8 +19,8 @@ class Print extends Module
 
         parent::__construct();
 
-        $this->displayName = $this->l('print');
-        $this->description = $this->l('My print is print.');
+        $this->displayName = $this->l('fooprint');
+        $this->description = $this->l('My fooprint is fooprint.');
 
         $this->confirmUninstall = $this->l('Are you sure you want to uninstall?');
 
@@ -38,7 +38,7 @@ class Print extends Module
         if (!parent::install() ||
             !$this->registerHook('leftColumn') ||
             !$this->registerHook('header') ||
-            !Configuration::updateValue('PRINT', 'my friend')
+            !Configuration::updateValue('FOOPRINT', 'my friend')
         ) {
             return false;
         }
@@ -49,7 +49,7 @@ class Print extends Module
     public function uninstall()
     {
         if (!parent::uninstall() ||
-            !Configuration::deleteByName('PRINT')
+            !Configuration::deleteByName('FOOPRINT')
         ) {
             return false;
         }
@@ -59,6 +59,6 @@ class Print extends Module
 
     public function hookHeader()
     {
-        return "Hello from my module print <a href='https://google.com' target='_blank'>Google here</a>";
+        return "Hello from my module fooprint <a href='https://google.com' target='_blank'>Google here</a>";
     }
 }
