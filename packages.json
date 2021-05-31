@@ -1,14 +1,14 @@
 {
     "packages": {
-        "qlu/print": {
+        "qlu/fooprint": {
             "1.0.0": {
-                "name": "qlu/print",
+                "name": "qlu/fooprint",
                 "version": "1.0.0",
                 "type": "ps-library",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/khanhmas/php-lib.git",
-                    "reference": "51909c8480454321712cfe8eddffb52ae4946ccb"
+                    "reference": "d9b9094b5114dbce244b8da6aac6798e3555a36d"
                 }
             }
         },
