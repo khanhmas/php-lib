@@ -4,8 +4,20 @@
             "1.0.0": {
                 "name": "qlu/print",
                 "version": "1.0.0",
+                "type": "ps-library",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/khanhmas/php-lib.git",
+                    "reference": "97ee8636fe58ed038cdef8a62a3f67ef61d85ed2"
+                }
+            }
+        },
+        "qlu/local-print": {
+            "1.0.0": {
+                "name": "qlu/local-print",
+                "version": "1.0.0",
                 "dist": {
-                    "url": "http://my-apache-php-lib/index.zip",
+                    "url": "http://localhost/index.zip",
                     "type": "zip"
                 }
             }
