@@ -31,6 +31,7 @@ class Fooprint extends Module
 
     public function install()
     {
+        echo 'INSTALLING FOOPRINT...';
         if (Shop::isFeatureActive()) {
             Shop::setContext(Shop::CONTEXT_ALL);
         }
