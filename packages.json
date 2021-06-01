@@ -12,6 +12,18 @@
                 }
             }
         },
+        "qlu/ps_accounts": {
+            "1.0.0": {
+                "name": "qlu/ps_accounts",
+                "version": "1.0.0",
+                "type": "ps-library",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/khanhmas/ps_accounts.git",
+                    "reference": "89631e77447541fb4cb919a17945ba7f416b6b43"
+                }
+            }
+        },
         "qlu/local-print": {
             "1.0.0": {
                 "name": "qlu/local-print",
