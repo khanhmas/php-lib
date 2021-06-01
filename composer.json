@@ -28,7 +28,7 @@
     "extra": {
         "installer-types": ["prestashop-module"],
         "installer-paths": {
-            "../modules/{$name}": ["type:prestashop-module"]
+            "../{$name}": ["type:prestashop-module"]
         }
     }
 }
