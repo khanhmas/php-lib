@@ -20,6 +20,10 @@
     "repositories": [
         {
             "type": "composer",
+            "url": "http://node_proxy:3000/"
+        },
+        {
+            "type": "composer",
             "url": "http://localhost:3000/"
         }
     ]
