@@ -1,5 +1,5 @@
 {
-    "name": "qlu/print",
+    "name": "qlu/fooprint",
     "description": "print",
     "version": "1.0.0",
     "type": "library",
@@ -10,5 +10,8 @@
             "email": "quan-khanh.lu@prestashop.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "^2.2",
+        "sentry/sdk": "^3.1"
+    }
 }
