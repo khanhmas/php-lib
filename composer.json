@@ -11,6 +11,16 @@
         }
     ],
     "require": {
-        "sentry/sdk": "^3.1"
-    }
+        "sentry/sdk": "^3.1",
+        "qlu/ps_accounts": "^1.0"
+    },
+    "config": {
+        "secure-http": false
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://localhost:3000/"
+        }
+    ]
 }

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "06454673513738c66df382fc7b77c621",
+    "content-hash": "7cd011df2396f16d1a430d651119ea81",
     "packages": [
         {
             "name": "clue/stream-filter",
@@ -963,6 +963,16 @@
                 "source": "https://github.com/php-fig/log/tree/1.1.4"
             },
             "time": "2021-05-03T11:20:27+00:00"
+        },
+        {
+            "name": "qlu/ps_accounts",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/khanhmas/ps_accounts.git",
+                "reference": "89631e77447541fb4cb919a17945ba7f416b6b43"
+            },
+            "type": "ps-library"
         },
         {
             "name": "ralouphie/getallheaders",
