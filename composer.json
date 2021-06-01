@@ -12,8 +12,7 @@
     ],
     "require": {
         "sentry/sdk": "^3.1",
-        "qlu/ps_accounts": "^1.0",
-        "monolog/monolog": "^2.2"
+        "qlu/ps_accounts": "^1.0"
     },
     "config": {
         "secure-http": false
