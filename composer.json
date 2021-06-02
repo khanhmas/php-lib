@@ -14,7 +14,7 @@
         "sentry/sdk": "^3.1",
         "qlu/ps_accounts": "^1.0",
         "oomphinc/composer-installers-extender": "^2.0",
-        "qlu/ps_echo": "^1.0"
+        "prestashop/ps_echo": "^1.0"
     },
     "config": {
         "secure-http": false
