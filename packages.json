@@ -24,15 +24,15 @@
                 }
             }
         },
-        "qlu/ps_echo": {
+        "prestashop/ps_echo": {
             "1.0.0": {
-                "name": "qlu/ps_echo",
+                "name": "prestashop/ps_echo",
                 "version": "1.0.0",
                 "type": "prestashop-module",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/khanhmas/ps_echo.git",
-                    "reference": "f77fddab160372a7e2780d552e78911566a17631"
+                    "reference": "c2714cb38b2d9d83d1c7c9fcd458895246957fff"
                 }
             }
         },
