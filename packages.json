@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/khanhmas/php-lib.git",
-                    "reference": "49577329e65347044be88579db912bb51674b852"
+                    "reference": "d255500d02b4a266daebc59e66e320af632aaf6d"
                 }
             }
         },
@@ -20,7 +20,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/khanhmas/ps_accounts.git",
-                    "reference": "d255500d02b4a266daebc59e66e320af632aaf6d"
+                    "reference": "89631e77447541fb4cb919a17945ba7f416b6b43"
                 }
             }
         },
