@@ -8,7 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/khanhmas/php-lib.git",
-                    "reference": "886ccc13ae1df66288f5f94f56092a34d5a3a617"
+                    "reference": "2a0d670e4a44799ecbf2e4b06fc64290740341e8"
+                }
+            }
+        },
+        "qlu/fiibar": {
+            "1.0.0": {
+                "name": "qlu/fiibar",
+                "version": "1.0.0",
+                "type": "ps-library",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/khanhmas/fiibar.git",
+                    "reference": "087fb40cfd5ef77943292ca2aab42745d69830a1"
                 }
             }
         },
@@ -33,6 +45,16 @@
                     "type": "git",
                     "url": "https://github.com/khanhmas/ps_echo.git",
                     "reference": "c2714cb38b2d9d83d1c7c9fcd458895246957fff"
+                }
+            },
+            "2.0.0": {
+                "name": "prestashop/ps_echo",
+                "version": "2.0.0",
+                "type": "prestashop-module",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/khanhmas/ps_echo.git",
+                    "reference": "46677cb91fd7fb44efd01e96dea36328929d1f1a"
                 }
             }
         },
