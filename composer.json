@@ -22,7 +22,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "http://localhost:3000/"
+            "url": "http://node_proxy:3000/"
         }
     ],
     "extra": {
