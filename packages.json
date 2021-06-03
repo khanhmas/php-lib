@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/khanhmas/php-lib.git",
-                    "reference": "23615c8143148cd3bf43d07710befe195cc5f544"
+                    "reference": "7357da05260b20d13df7efe334a5cddf1a8fc985"
                 }
             }
         },
@@ -20,7 +20,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/khanhmas/fiibar.git",
-                    "reference": "f61ef6ee58a5d78ed4752aa15a862a598fe219df"
+                    "reference": "8530d3899dd0f8be912deecf9ba378f76ee3173c"
                 }
             }
         },
@@ -33,6 +33,16 @@
                     "type": "git",
                     "url": "https://github.com/khanhmas/ps_accounts.git",
                     "reference": "89631e77447541fb4cb919a17945ba7f416b6b43"
+                }
+            },
+            "2.0.0": {
+                "name": "qlu/ps_accounts",
+                "version": "2.0.0",
+                "type": "ps-library",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/khanhmas/ps_accounts.git",
+                    "reference": "b18eaf136e880f4bcbb1cb31a9c3b467274008d7"
                 }
             }
         },
