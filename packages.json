@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/khanhmas/php-lib.git",
-                    "reference": "2a0d670e4a44799ecbf2e4b06fc64290740341e8"
+                    "reference": "23615c8143148cd3bf43d07710befe195cc5f544"
                 }
             }
         },
@@ -20,7 +20,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/khanhmas/fiibar.git",
-                    "reference": "087fb40cfd5ef77943292ca2aab42745d69830a1"
+                    "reference": "f61ef6ee58a5d78ed4752aa15a862a598fe219df"
                 }
             }
         },
